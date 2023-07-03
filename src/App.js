@@ -28,7 +28,7 @@ function App() {
       <Button text="-" display={display} setDisplay={setDisplay} equation={equation} setEquation={setEquation} />
      </div>
      <div className="buttonContainer">
-      <Button text="1" display={display} setDisplay={setDisplay} equation={equation} setEquation={setEquation} />
+      <Button text="2" display={display} setDisplay={setDisplay} equation={equation} setEquation={setEquation} />
       <Button text="2" display={display} setDisplay={setDisplay} equation={equation} setEquation={setEquation} />
       <Button text="3" display={display} setDisplay={setDisplay} equation={equation} setEquation={setEquation} />
       <Button text="+" display={display} setDisplay={setDisplay} equation={equation} setEquation={setEquation} />
